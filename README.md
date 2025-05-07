@@ -11,10 +11,10 @@
 
 ## Equipo
 
-- Nombre del grupo
+- Nombre del grupo: LS
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: **220.885-4**
+- Nombre: **Luca Smario Raimondi**
 
 - Legajo: **Completar**
 - Nombre: **Completar**
